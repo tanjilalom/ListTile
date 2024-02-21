@@ -16,4 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-[![Screenshot.png](Screenshot.png)]
+## Screenshots
+
+<img src="Screenshot.png" alt="Screenshot" width="325" height="680">
