@@ -21,7 +21,6 @@ class MyApp extends StatelessWidget {
                 leading: CircleAvatar (child: Icon(Icons.book_outlined)),
                 //leading: CircleAvatar (backgroundImage: NetworkImage("link")),
                 trailing: Icon(Icons.save_alt_rounded),
-
               )
             ],
           ),
